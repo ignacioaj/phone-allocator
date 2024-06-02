@@ -1,0 +1,19 @@
+.tag {
+  background-color: #7fffd4;
+  border-radius: 20px;
+  padding: 10px 20px;
+  width: fit-content;
+  height: fit-content;
+  cursor: pointer;
+  font-size: 0.7rem;
+}
+
+.tag:hover {
+  background-color: #50a186;
+  border-radius: 20px;
+  padding: 10px 20px;
+  width: fit-content;
+  height: fit-content;
+  cursor: pointer;
+  color: aliceblue;
+}
